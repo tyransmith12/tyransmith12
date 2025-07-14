@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tyransmith12
-- 👀 I’m interested in Cybersecurity 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on writing Scripts for automating tasks
+- I’m passionate about securing endpoints on the enterprise level
+- I’m looking to collaborate on writing Scripts for automating tasks while leveraging AI.
 
 
 <!---
